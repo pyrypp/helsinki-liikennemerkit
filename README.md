@@ -1,4 +1,6 @@
 ## Liikennemerkkien alueellinen jakautuminen Helsingissä – konenäköavusteinen tutkimus
+![image](https://github.com/pyrypp/helsinki-liikennemerkit/assets/120693130/a2f0e129-32be-4860-aadf-dc2da6686dc5)
+
 Autolla ajamisen kokemus vaihtelee eri puolilla Helsinkiä. Tämä tutkimus pyrkii selvittämään, mitä liikennemerkit paljastavat kaupungista. Tutkimuksen päätavoite on siis vertailla, miten eri liikennemerkkejä esiintyy eri kaupunginosissa.
 
 Kesällä 2020 voimaan astunut uusi tieliikennelaki (729/2018) velvoittaa tienpitäjiä toimittamaan tietoja asetetuista liikenteenohjauslaitteista, kuten liikennemerkeistä, ajoratamaalauksista ja liikennevaloista Väylävirastolle (vayla.fi, päivitetty 14.4.2023). Väylävirasto hallinnoi tietoja Digiroad-tietojärjestelmässä, johon on koottu Suomen tie- ja katuverkon keskilinjageometria ja tärkeimmät ominaisuustiedot.
