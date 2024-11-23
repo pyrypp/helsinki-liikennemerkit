@@ -10,3 +10,6 @@ Tutkimuksen kirjoittamisen aikaan (09/2023) Digiroad-järjestelmän tiedot pää
 Kattavampaa paikkatietoa Helsingin liikennemerkeistä tarjoaa esimerkiksi ruotsalaisen Mapillary AB:n Mapillary-palvelu. Mapillary kerää katunäkymäkuvia käyttäjiltään ja konenäköä hyödyntäen inventoi katuominaisuuksia, kuten katuvaloja, liikennevaloja ja liikennemerkkejä.
 
 Tämän tutkimuksen tarkoituksena on luoda oma tutkimusaineisto ja tunnistaa liikennemerkkejä konenäön avulla. Mapillary-palvelun paikkatietoa Helsingin liikennemerkeistä käytetään tutkimuksessa vertailuaineistona (ground truth), johon omia tuloksia verrataan.
+
+Tutkimusartikkeli:
+https://github.com/pyrypp/helsinki-liikennemerkit/blob/3900c2393c17d068eb469c93acad81df33a32af3/Helsinki%20-%20Liikennemerkkianalyysi.pdf
