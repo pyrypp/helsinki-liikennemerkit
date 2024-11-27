@@ -18,11 +18,31 @@ https://github.com/pyrypp/helsinki-liikennemerkit/blob/3900c2393c17d068eb469c93a
 
 ## Mitä opin?
 - Vektorikarttojen käsittely
-  - Kirjastot (Geopandas, Folium, Pyproj, Shapely)
-  - Aineistojen yhdistäminen (union, intersection...)
+  - Kirjastot (Geopandas, Folium, Pyproj ja Shapely)
+  - Kartta-aineistojen yhdistäminen (union, intersection...)
+  - Tien suuntien laskeminen
 - Oman aineiston luominen API:n avulla
   - Google Street View API
   - Tiedostojen hallinta Pythonilla
 - Kohteentunnistusmallin käyttö (Yolov7)
-  - Aineiston valmistelu ja augmentaatio
-  - Mallin kouluttaminen ja hyperparametrien säätäminen
+  - Siirto-oppiminen
+  - Aineiston valmistelu (mm. augmentaatio, copy-paste -metodi ja luokkajakauman tasaaminen)
+  - Mallin kouluttaminen ja hyperparametrien säätäminen (Tensorboard)
+  - Mallin arvioinnin perusteita (precision, recall ja mAP)
+- Kuvien käsittely Pythonilla
+  - Kirjastot (Cv2, Pillow ja Matplotlib)
+  - Hex-värien logiikka
+  - Kuvien manipulointi matriiseilla
+- Tehokkaampaa oman koodin paketoimista funktioihin
+- Julkisen datan hakeminen ja hyödyntäminen
+  - Väylävirasto
+  - Maanmittauslaitos
+  - Helsingin kaupungin karttapalvelu
+- Uusi tieliikennelaki (729/2018) ja Digiroad-järjestelmä
+
+## Potentiaalinen jatkokehitys
+- Suurempi analysoitava aineisto
+  - Suurempi alue
+  - Datapisteitä tiheämmin
+- Suurempi koulutusaineisto ja tasaisempi luokkajakauma
+- Interaktiivinen käyttöliittymä
