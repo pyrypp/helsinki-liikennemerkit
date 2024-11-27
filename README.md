@@ -1,4 +1,4 @@
-## Liikennemerkkien alueellinen jakautuminen Helsingissä – konenäköavusteinen tutkimus
+# Liikennemerkkien alueellinen jakautuminen Helsingissä – konenäköavusteinen tutkimus
 ![image](https://github.com/pyrypp/helsinki-liikennemerkit/assets/120693130/a2f0e129-32be-4860-aadf-dc2da6686dc5)
 
 Autolla ajamisen kokemus vaihtelee eri puolilla Helsinkiä. Tämä tutkimus pyrkii selvittämään, mitä liikennemerkit paljastavat kaupungista. Tutkimuksen päätavoite on siis vertailla, miten eri liikennemerkkejä esiintyy eri kaupunginosissa.
@@ -13,3 +13,16 @@ Tämän tutkimuksen tarkoituksena on luoda oma tutkimusaineisto ja tunnistaa lii
 
 Tutkimusartikkeli:
 https://github.com/pyrypp/helsinki-liikennemerkit/blob/3900c2393c17d068eb469c93acad81df33a32af3/Helsinki%20-%20Liikennemerkkianalyysi.pdf
+
+![image](output_images/comps/Pysäköinti%20kielletty.png)
+
+## Mitä opin?
+- Vektorikarttojen käsittely
+  - Kirjastot (Geopandas, Folium, Pyproj, Shapely)
+  - Aineistojen yhdistäminen (union, intersection...)
+- Oman aineiston luominen API:n avulla
+  - Google Street View API
+  - Tiedostojen hallinta Pythonilla
+- Kohteentunnistusmallin käyttö (Yolov7)
+  - Aineiston valmistelu ja augmentaatio
+  - Mallin kouluttaminen ja hyperparametrien säätäminen
